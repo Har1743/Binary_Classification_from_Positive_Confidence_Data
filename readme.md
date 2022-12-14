@@ -5,10 +5,13 @@ In Data Science, we are generally taught to use positive as well as negative dat
 # Pconf Test Cases
 
 ## Results of Pconf test on Random Generated 1-D DataSet
+![](bruder_help.png)
 
 ## Results of Pconf test on Spaceship Titanic Dataset
+![](bruder_help.png)
 
 ## Results of Pconf test on to detect Phishing Website Dataset
+![](bruder_help.png)
 
 # Requirements
 Python 3.6 numpy 1.13 Pytorch 0.4 matplotlib 2.1.1
