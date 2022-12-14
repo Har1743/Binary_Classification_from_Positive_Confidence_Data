@@ -5,7 +5,7 @@ In Data Science, we are generally taught to use positive as well as negative dat
 # Pconf Test Cases
 
 ## Results of Pconf test on Random Generated 1-D DataSet
-![](bruder_help.png)
+![](testcase_images_Pconf_RG_DT_Acc.png)
 
 ## Results of Pconf test on Spaceship Titanic Dataset
 ![](bruder_help.png)
