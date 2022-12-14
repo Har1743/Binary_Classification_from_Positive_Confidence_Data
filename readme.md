@@ -12,7 +12,7 @@ In Data Science, we are generally taught to use positive as well as negative dat
 ![](test_case_images/Pconf_ST_DT_Acc.png)
 
 ## Results of Pconf test on to detect Phishing Website Dataset
-![](Pconf_ST_DT_Acc.png)
+![](test_case_images/Pconf_PW_DT_Acc.png)
 
 # Requirements
 Python 3.6 numpy 1.13 Pytorch 0.4 matplotlib 2.1.1
