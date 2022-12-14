@@ -9,10 +9,10 @@ In Data Science, we are generally taught to use positive as well as negative dat
 ![](test_case_images/Pconf_RG_DT_Acc_visualize.png)
 
 ## Results of Pconf test on Spaceship Titanic Dataset
-![](bruder_help.png)
+![](test_case_images/Pconf_ST_DT_Acc.png)
 
 ## Results of Pconf test on to detect Phishing Website Dataset
-![](bruder_help.png)
+![](Pconf_ST_DT_Acc.png)
 
 # Requirements
 Python 3.6 numpy 1.13 Pytorch 0.4 matplotlib 2.1.1
